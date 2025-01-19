@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /private/
+Allow: /
+Sitemap: https://sitemap.bartopool.com/sitemap-index.xml
